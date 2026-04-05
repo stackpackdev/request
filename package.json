@@ -1,0 +1,14 @@
+{
+  "name": "stackpack-request",
+  "version": "0.1.0",
+  "description": "StackPack tool request tracker — agents submit missing capability tickets",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.0.1",
+    "pg": "^8.13.1"
+  }
+}
