@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__stackpack__status",
+      "mcp__stackpack__deploy_git"
+    ]
+  }
+}
